@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="com.itlearn.TestCases.PaymentTestCase"/>
+  <!--    <class name="com.itlearn.TestCases.SearchTestCase"/> -->
+  <!--    <class name="com.itlearn360.Locators.NewTest"/> -->
+  <!--    <class name="com.itlearn.TestCases.DashBoardTestCase"/>  -->
+      <class name="com.itlearn.TestCases.TestCaseDemo_itlearn"/>
+    <!--  <class name="com.itlearn360.Pages.BaseTest"/> -->
+     <class name="com.itlearn.TestCases.LoginTestDrivenData"/> 
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
